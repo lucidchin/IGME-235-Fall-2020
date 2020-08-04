@@ -72,6 +72,8 @@ The site must be placed in the project1 directory inside of your 235 directory (
 - ZIP and upload your portfolio files (so far) as well.
 - Your final submission must also include the URL to your online documentation in the comments field of the dropbox.
 
+========= updated below this line ============
+
 ## Grading
 
 The Grading Rubric is not yet finalized.  Here is an estimate:
