@@ -1,14 +1,14 @@
 # Exercise: Browse Past Projects 
 
-On your own, begin to explore the sample projects below. Keep in mind that in many cases, Project 1 and Project 3 are rolled together into the same website.  If you find a project that is especially interesting or if you have questions about expectations for this semester, let us know.
+For this exercise, we'd like you to explore some sample projects from the last few semesters. The project names and numbers have changed a bit over time, so pay attention to the short descriptions at the top of each section to understand which project you're looking at.  If you find a project that is especially interesting or if you have questions about expectations for this semester, feel free to mention it in the "#exercise-discussion" Slack channel.
 
 ## Do the following:
 - Check out the links below and visit at least one project in each category.
 
 
-### Portfolios (We will start ours for Project 1)
+### Category 1: Portfolios (We will start ours for Project 1 and finish them later in the semester)
 
-#### Fall 2019 Portfolios - Please note: Do not share.  They are not necessarily complete yet.
+#### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
 - https://people.rit.edu/acm1551/235/portfolio/
 - https://people.rit.edu/txa7348/235/portfolio/
 - https://people.rit.edu/sd5936/235/professionalProjects.html
@@ -47,7 +47,7 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - https://people.rit.edu/wjb5377/portfolio/
 - https://people.rit.edu/swa4861/portfolio/
 
-### Project 2s 
+### Category 2: Web Service Applications (This will be our Project 2)
 
 #### Fall 2019 Project 2s
 - https://people.rit.edu/afb3535/235/Project2/
@@ -75,9 +75,9 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - https://people.rit.edu/iod6239/230/project2/
 
 
-### Project 3s (ignore project numbers in the URLs -- it has had different numbers in the past)
+### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
 
-#### Fall 2019 Games (mixed -- some DOM, some PixiJS)
+#### Recent Games (mixed -- some DOM, some PixiJS)
 - Temple Tiles - https://people.rit.edu/rdt7867/235/project3/
 - &mu;Karts - https://people.rit.edu/afb3535/235/Project1/pages/project.html
 - Cryptbreaker - https://people.rit.edu/jtb6154/235/project3/
@@ -138,6 +138,6 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Astrodrift - https://people.rit.edu/sae9257/230/project1/index.html
 - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
 
-## If you get done early:
-- Start making some notes about project features, game ideas, portfolio elements that you might want to incorporate into your own project.
+## When you get done:
+- Start making some notes about project features, game ideas, portfolio elements that you might want to incorporate into your own project.  This is one of the to do items in your Week 1 Checklist in myCourses.
     
