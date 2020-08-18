@@ -4,7 +4,7 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ## Do the following:
 - Check out the links below and visit at least one project in each category.
-
+- Watch the Projects Overview Video also linked to from the first week's myCourses content area.
 
 ### Category 1: Portfolios (We will start ours for Project 1 and finish them later in the semester)
 
