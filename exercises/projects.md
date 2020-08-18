@@ -9,7 +9,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 ### Category 1: Portfolios (We will start ours for Project 1 and finish them later in the semester)
 
 #### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
-
 - https://people.rit.edu/mjc9536/235/project1/
 - https://people.rit.edu/dmd7488/235/Project1/
 - https://people.rit.edu/dg1229/235/project1/
@@ -33,19 +32,11 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/axg9168/230/portfolio/
 - https://people.rit.edu/rcm4155/230/portfolio/
 - https://people.rit.edu/ltd3086/portfolio/
-- https://people.rit.edu/mxb9517/portfolio/
-- https://people.rit.edu/mac9406/portfolio/
 - https://people.rit.edu/ctb4332/portfolio/
-- https://people.rit.edu/sxf5282/portfolio/
-- https://people.rit.edu/lpn4937/portfolio/
 - https://people.rit.edu/drs4149/portfolio/
 - https://people.rit.edu/wjb5377/portfolio/
-- https://people.rit.edu/swa4861/portfolio/
-
 - https://people.rit.edu/acm1551/235/portfolio/
 - https://people.rit.edu/txa7348/235/portfolio/
-- https://people.rit.edu/sd5936/235/professionalProjects.html
-- https://people.rit.edu/rdt7867/235/portfolio/
 - https://people.rit.edu/kle4382/235/portfolio/
 - https://people.rit.edu/cre1467/235/portfolio/
 - https://people.rit.edu/cjm8652/235/portfolio/
@@ -53,12 +44,9 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/dls7470/235/portfolio/
 - http://lightling.xyz/
 - https://people.rit.edu/wsb6157/235/portfolio/
-- https://people.rit.edu/ks3678/235/Portfolio/
 - https://people.rit.edu/nzl6723/235/portfolio/
 - https://people.rit.edu/nkz4713/235/portfolio/
-- https://people.rit.edu/tcd2738/235/portfolio/
 - https://people.rit.edu/vae3742/235/portfolio/
-- https://people.rit.edu/zmb1362/235/portfolio/
 
 ### Category 2: Web Service Applications (This will be our Project 2)
 
