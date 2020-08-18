@@ -50,21 +50,10 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ### Category 2: Web Service Applications (This will be our Project 2)
 
-#### Fall 2019 Project 2s
-- https://people.rit.edu/afb3535/235/Project2/
-- https://people.rit.edu/mab7367/235/project2/
-- https://people.rit.edu/txa7348/235/project2/
-- https://people.rit.edu/cbr7117/235/project2/
-- https://people.rit.edu/ald1289/235/rating-finder/ratingFinder.html
-- https://people.rit.edu/mes3585/235/project2/
-- https://people.rit.edu/nmm3037/235/project2/
-- https://people.rit.edu/spg1627/235/project2/
-- https://people.rit.edu/crl3554/235/project2/amiiboFinder/
-- https://people.rit.edu/jeh4253/235/project2/
-- https://people.rit.edu/rw7363/235/project2/
-- https://people.rit.edu/nzl6723/235/project2/gif-finder.html
-- https://people.rit.edu/daj6462/235/project2/
-- https://people.rit.edu/kct2548/235/pokemon_card_finder/card-finder.html
+#### Spring 2020 Project 2s
+- https://people.rit.edu/lth1092/235/Project2/
+- https://people.rit.edu/dmd7488/235/Project2/
+- https://people.rit.edu/~nqs3694/235/project2/
 
 #### Previous Project 2s
 - https://people.rit.edu/yl5209/230/project2/
@@ -74,11 +63,31 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/ss1594/230/project2/
 - https://people.rit.edu/ggc2903/230/project2/
 - https://people.rit.edu/iod6239/230/project2/
+- https://people.rit.edu/afb3535/235/Project2/
+- https://people.rit.edu/mab7367/235/project2/
+- https://people.rit.edu/txa7348/235/project2/
+- https://people.rit.edu/ald1289/235/rating-finder/ratingFinder.html
+- https://people.rit.edu/mes3585/235/project2/
+- https://people.rit.edu/spg1627/235/project2/
+- https://people.rit.edu/crl3554/235/project2/amiiboFinder/
+- https://people.rit.edu/jeh4253/235/project2/
+- https://people.rit.edu/rw7363/235/project2/
+- https://people.rit.edu/nzl6723/235/project2/gif-finder.html
+- https://people.rit.edu/daj6462/235/project2/
+- https://people.rit.edu/kct2548/235/pokemon_card_finder/card-finder.html
 
 
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
 
-#### Recent Games (mixed -- some DOM, some PixiJS)
+#### Recent Games - Spring 2020 (mixed -- some DOM, some PixiJS)
+- Pond King - https://people.rit.edu/mdb4220/235/Project%203/index.html
+- Mine Sweeper - https://people.rit.edu/dmd7488/235/Project3/
+- Alpine Survival - https://people.rit.edu/nfb1799/235/project3/index.html
+- Polygon Defense - https://people.rit.edu/rdf7972/235/Proj3PolygonDefense/game.html
+- Alien Cereal - https://people.rit.edu/lep2738/235/project-3/game/game.html
+- Brick Breaker - https://people.rit.edu/kst4052/235/project-3-bricks/game.html
+
+#### Recent Games - Fall 2019 (mixed -- some DOM, some PixiJS)
 - Temple Tiles - https://people.rit.edu/rdt7867/235/project3/
 - &mu;Karts - https://people.rit.edu/afb3535/235/Project1/pages/project.html
 - Cryptbreaker - https://people.rit.edu/jtb6154/235/project3/
