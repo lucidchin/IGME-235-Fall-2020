@@ -113,39 +113,20 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Bermuda Treasure - https://people.rit.edu/kiz8980/235/project3/project.html
 - Nascency: Battle of the Alchemists - https://people.rit.edu/cre1467/235/project1/game.html
 
-#### Previous DOM Game:   
-- Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
-- Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
-- Checkers - https://people.rit.edu/djs5435/230/project2/
-- Conway's Game of Life - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
-- Connect Four - https://people.rit.edu/paa9307/230/project2/
-- ASCII Dungeoneer - https://people.rit.edu/btf6119/230/projects/2/index.html
+#### Previous DOM Games:   
 - Chess - https://people.rit.edu/~dxc6879/230/project2.2/project-2.html
-- Musical Minesweeper - https://people.rit.edu/~iae2784/230/project2/project.html
-- Lines and Squares - https://people.rit.edu/~spb6892/230/project2/project2.html
-- Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
 - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
 
-#### Preview PixiJS Sprite Game:
+#### Previous PixiJS Sprite Games:
 - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
-- Night Walk 2! - https://people.rit.edu/mro5772/230/project1/PlayGame
 - Hit 'Em - https://people.rit.edu/~txm1918/230/project1/index.html
-- Space Voyager - https://people.rit.edu/djs5435/230/project1/project3/project.html
-- Bananagans - https://people.rit.edu/axw1799/Bananagans/Bananagans/game.html
 - Apocalypse Escape - https://people.rit.edu/scr3876/230/project1/project.html
-- Adventuroso - https://people.rit.edu/~ctq6891/230/projects/project1/project.html
 - Project IPRE - https://people.rit.edu/~deb2610/230/project1/project.html
-- Vector Victor - https://people.rit.edu/sxf5282/230//project1/project.html
 - Trophy Hunter - https://people.rit.edu/mxr2091/230/finalproject/game.html
 - Xevious Redux - https://people.rit.edu/ngm9939/230/project1/game.html
-- BALLISTIC - https://people.rit.edu/~wcd7037/230/Project1/project.html
 - SACO - https://people.rit.edu/cxa7619/230/project1/project.html
-- Reversoid - https://people.rit.edu/~tps3871/230/project1/index.html
-- FliP - https://people.rit.edu/~spb6892/230/project1/index.html
 - Phaser - https://people.rit.edu/cfc5762/230/project1/
 - Paper Airplane Tilt - https://people.rit.edu/~zsd7200/230/project1/project3/index.html  - Uses mobile tilt controls!
-- Isolation - https://people.rit.edu/swa4861/230/project1/
-- Astrodrift - https://people.rit.edu/sae9257/230/project1/index.html
 - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
 
 ## When you get done:
