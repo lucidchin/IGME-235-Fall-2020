@@ -18,6 +18,7 @@ Below are some general steps that you should follow, but they are not exact.  Us
 5. Preview your page in a browser.
     - The text will all run together in a single paragraph unless you added other tags, which is fine.
 6. Add heading elements `<h1>`, paragraphs `<p>`, line breaks `<br>`, and block quotes `<blockquote>`.
+    - Don't spend forever on it... Just add a few and move on.
 7. Preview.
 
 ## Continue on to the next Exercise.  (go back to myCourses for the link)
