@@ -1,6 +1,6 @@
 # Exercise: Structural and Semantic HTML 
 
-Same as previous exercises:  Continue with partner if possible.  Figure out how to meet provided goals.  Ask people for help if needed. 
+Don't forget to ask for help if needed.  Don't spend a lot of time (especially in the in-person lab) being stuck.
 
 ## Do as much of the following as possible:
 
@@ -18,8 +18,8 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 
 1. Add organizing/semantic tags:
 
-    - Add a `<main>` section.
-    - Add a `<header>` section.
+    - Add a `<main>` section. What section is "main"... (hint: most if not all of it)
+    - Add a `<header>` section. What info is in your header?
     - Add a `<footer>` with information about where the content is from.
 
 1. Add inline elements for additional formatting (your choice as to where they might be appropriate):
@@ -28,12 +28,9 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
     - Mark an acronym so that it's meaning appears on hover.  
     - Add a line break.
 
-1. Add a `<div>` with an `id` attribute.
-
+1. Add a `<div>` with an `id` attribute around the "source" info at the very bottom of the page.
     - We won't apply any styling to it just yet, we're just making it so that we can link to it from the next exercise.
-    - Add it to the "source" information at the very bottom of the page.
 
-## If you get done early:
 
-- You probably won't, but if you do, see what you can do to fine-tune your page (keeping in mind that you still don't have styles yet so it won't look like much).
+## Continue on to add links...
 
