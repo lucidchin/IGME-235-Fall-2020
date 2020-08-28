@@ -1,10 +1,12 @@
 # Exercise: Initial Markup 
 
-This is an In-Class Exercise. You are highly encouraged to work with a partner for this exercise series, however you can do it alone if you need to.  Eventually, we will ask you to submit the work that you do on this HTML ICE Series.  In addition, you will have an individual homework assignment that is very similar that will be due soon (see the Assignments section in myCourses).
+This is a Lab Exercise.  You should try to complete all of the steps of this exercise rather quickly. Eventually, we will ask you to submit the work that you do on this HTML Lab Series (There are a total of 12 small exercises that build on each other).  In addition, you will have an individual homework assignment that is very similar that will be due soon (see the After Lab Checklists and the Assignments section in myCourses).
 
-Below are some general steps that you should follow, but they are not exact.  Use your knowledge from the reading and today's review to achieve the goals below.
+Below are some general steps that you should follow, but they are not exact.  Use your knowledge from the reading and Review Videos to achieve the goals below.
 
-Please ask your professor, the teaching assistant or your neighbor for help if you get stuck (or if you discover something interesting that you might want to share with the rest of the class).
+**If you are in the In-Person lab**, please ask your instructor for help if you get stuck (or if you discover something interesting that you might want to share with the rest of the class).  You can do so by clicking the Life Preserver icon in the top right of your screen.  The instructor will join you by screen share and chat! (You could also look in the #questions-html-css channel on Slack, but hey, the Prof is right there.  Let him help!  He's probably bored!)
+
+**If you are Online/Flex**, please ask any questions in the #questions-html-css channel on Slack.  Feel free to browse other questions to see if your question may have already been helped, though.
 
 ## Do the following:
 1. Create a new folder called **game** (on your PC)
@@ -17,9 +19,5 @@ Please ask your professor, the teaching assistant or your neighbor for help if y
 6. Add heading elements `<h1>`, paragraphs `<p>`, line breaks `<br>`, and block quotes `<blockquote>`.
 7. Preview.
 
-## If you get done early:
-- Continue to add other formatting/structural elements... 
-    - Avoid the temptation to try to use layout related HTML for now.  Focus on dividing the text appropriately into sections.  
-    *or* 
-- Browse http://mobygames.com or http://boardgamegeek.com for another game (digital or analog) that you'd like to use as a data source for your own homework assignment.  
-    - You can go right ahead and begin the assignment now if you want, recording the main URL of the page and picking and choosing a few snippets.  Look for:  A short description paragraph, and list of info/features that you can pick a few from, a review that you can pull an amusing quote from (ideally one that you can link to), and a few representative images.  We'll cover adding images next.
+## Continue on to the next Exercise.  (go back to myCourses for the link)
+
