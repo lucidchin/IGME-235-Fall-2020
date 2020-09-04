@@ -27,7 +27,7 @@ We've got some specialized images for you to add to your Dig Dug page.  An SVG i
 1. Add the generated link tags to the head of your page so that the favicon loads.
 
 
-## If you get done early:
+## If you are so inclined, otherwise, continue to the next exercise.
 
 - Validate.
 - Look for at a site like http://thenounproject.com and see if you can find a cool icon to use for your own 235 Home Page.  Maybe something that represents you.  Then, download it as an SVG.
