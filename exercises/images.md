@@ -16,7 +16,7 @@ We've got some bitmap images for you to add to your Dig Dug page.
 
 1. add the following inline style to your opening body tag (as a quick test):  `style="background-color:lightblue;"`  Notice that the area around your new Dig Dug logo is transparent and you can see the background through it.  What if the logo had been a .jpg?
 
-## If you get done early:
+## If you are so inclined (have extra time) otherwise, move on to the next exercise:
 
 - Validate your new additions. -- It may not like some things that we've told you to do, that's okay, just take note of what the validator says.
 - Select a better background color to apply.  Just Google for an HTML Color Picker (Google will actually display a simple one for you at the top of the search result page).  You can replace the word `lightblue` with another color such as `#ffe8a8` (that's a hexadecimal color code).
