@@ -23,7 +23,7 @@ We're really moving on to the Presentation layer and learning how to properly ad
 1. Add one more style rule that would apply to all of the images and cause them to float to the right.
     - I'll go ahead and give it to you.  `img.side {float:right; margin: 0 12px;}` is what you'd use if you used the class name **side**.
 
-## If you get done early:
+## If you are so inclined:
 - The book doesn't cover it for real until the end of Chapter 13, but I think you should be able to move your embedded styles into an external style sheet very easily now.  Just copy and paste them into a new empty text file with a .css extension and then add a `<link>` element into your head section that points at the file.  Here's an example of what that would look like:
     - `<link rel="stylesheet" href="styles/mycssfile.css">` assuming you put your .css file into a subfolder called **styles** -- not that you have to, but it's a common practice.
 
