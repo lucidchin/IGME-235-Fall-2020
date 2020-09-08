@@ -11,7 +11,7 @@ Let's modify our text a bit.
     - Helpful steps:
         1. Go to http://fonts.google.com
         1. Pick something interesting (click on "+ Select this style" next to the version you want to use)
-        1. In the "Selected Family" overlay that appears, click them embed tab.
+        1. In the "Selected Family" overlay that appears, click the embed tab.
         1. Copy and Paste the standard link into your `<head>`
         1. Copy the provided **font-family** declaration into your heading style rule(s)
 
