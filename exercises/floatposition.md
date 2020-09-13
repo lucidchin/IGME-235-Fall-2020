@@ -6,7 +6,7 @@ Before you get started, the instructor will give you a preview of the kind of th
 
 ## Do the following:
 **RULE ONE: Don't edit the HTML file! Only edit the linked CSS file (which starts empty)**
-1. Download the starter files (tetris-start.zip) from the myCourses Content area (Week 4)
+1. Download the starter files ([tetris-start.zip](tetris-start.zip)).
 
 1. Add a thin red line underneath all of the sub-headings.
     - use border-bottom property.
