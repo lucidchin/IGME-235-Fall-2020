@@ -1,16 +1,14 @@
 # Exercise: Flexbox
 
-In this exercise, you will again use the starting tetris.html file that you used for the last session.  However, you will rename your old css file to something else and instead, start a new css file at the same name as the old one.
+In this exercise, you will again use the starting tetris.html file that you used for the [last session](floatposition.md).  However, you will rename your old css file to something else and instead, start a new css file at the same name as the old one.
 
 ## Do the following:
 
-**IF YOU'RE SHORT ON TIME, JUMP STRAIGHT TO STEP 4.**
-
 1. We want this version of the page to respond more to the overall width of the viewport and present a nice experience at multiple widths.  Start by setting a max-width for the figure.  Set the max-width property to never be wider than 650px.
     - After you set the max-width, you'll notice that the image is still quite large.
-        -You could try setting overflow: hidden or overflow: scroll as a test. However, it's better to have the image simply fill the available space in the figure container.
-        -try applying a width:100% to the img element within the figure element.  Use a contextual selector.
-        -Note: You could apply both of these selectors directly to the image element if you wanted... Which in some cases would be what you need if you had no surrounding element.
+        - You could try setting overflow: hidden or overflow: scroll as a test. However, it's better to have the image simply fill the available space in the figure container.
+        - try applying a width:100% to the img element within the figure element.  Use a contextual selector.
+        - Note: You could apply both of these selectors directly to the image element if you wanted... Which in some cases would be what you need if you had no surrounding element.
         
 2. Try centering the figure.
     - Don't use text-align.
