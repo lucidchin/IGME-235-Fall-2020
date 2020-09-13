@@ -19,7 +19,7 @@ In this exercise, you will again use the starting tetris.html file that you used
     
 4. Okay, everything looks pretty good, but we really have to 
 get this gallery of tetrominos under control.  First, what is the parent container for all of the `<div>`s that contain the tetrominos?
-    - select that element (use it's id if you want) and put a declaration on it to make it a flexbox container.
+    - select that element (use its id if you want) and put a declaration on it to make it a flexbox container.
     
 5. They should have all lined up horizontally.  Which we want, but not going wider than the screen.  Instead we want the flexbox items to wrap to new lines.
     - Instead of using both flex-direction and flex-wrap, let's just add a flex-flow property and tell it you want the items to be in a "row" that will "wrap".
