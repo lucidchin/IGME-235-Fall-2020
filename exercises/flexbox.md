@@ -43,14 +43,15 @@ get this gallery of tetrominos under control.  First, what is the parent contain
     - Let's center everything within the tetromino divs using text-align.
     - The alias lists look terrible centered.  Let's make them look like we designed it by left-aligning the text in the alias divs and giving them a margin of about 1em.
     
-## If you get done early:
+## If you feel so inclined:
 - Notice that two of the tetrominos have an extra class applied.  This would allow you to set the width of the image for the I-Block to be an additional 20% wider and the width of the O-Block to be another 20% narrower than the other blocks.  That will keep the images in their proper relative size.
    
    
-    
-    
-    
-    
+## When you finish:
+- Make sure you save this version of your exercise.  
+    - Make a Zip containing this whole exercise with the css linked to the tetris.html file (and the image files, etc) and include your previous css file (that you renamed) in the same directory (it shouldn't be linked to tetris.html, however).  
+    - If your instructor requests it (see your section-specific channel on Slack), upload your finished exercise to banjo and make a link to it.
+
     
     
     
