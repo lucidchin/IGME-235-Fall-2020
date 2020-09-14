@@ -49,8 +49,11 @@ get this gallery of tetrominos under control.  First, what is the parent contain
    
 ## When you finish:
 - Make sure you save this version of your exercise.  
+    - Upload this flexbox version to banjo (exact URL is up to you).  Make note of the URL, you'll need it in a moment.
     - Make a Zip containing this whole exercise with the css linked to the tetris.html file (and the image files, etc) and include your previous css file (that you renamed) in the same directory (it shouldn't be linked to tetris.html, however).  
-    - If your instructor requests it (see your section-specific channel on Slack), upload your finished exercise to banjo and make a link to it.
+    - Submit your Assignment on myCourses... Include both the Zip that you just created as a file upload and make a clickable link to your banjo version in the comment field.
+    - *If your instructor requests it* (see your section-specific channel on Slack), submit a link to your finished lab exercise to your section's Slack channel.
+
 
     
     
