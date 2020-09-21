@@ -23,9 +23,9 @@ In particular look for these 5 features (discussed in Chapter 17 in your book):
 - **Typography** that becomes more legible, smaller, with tighter line heights, and/or with narrower margins on narrow screens.
 - A **navigation** style that changes at a narrow breakpoint.
 
-The more of these features you find, the better.  When you have your site, create a post in the "#exercise-rwd" channel in this format:   #/5 (list of bold words from above) URL to site.
+The more of these features you find, the better.  When you have your site, create a post in the "#exercise-rwd" channel in this format:   #/5 (list, of, bold, words, from, above) URL_to_site / Any additional notes you want to add about what you found.
 
-Example:   4/5 (fluid, breakpoints, layout, navigation) http://www.rit.edu
+Example:   4/5 (fluid, breakpoints, layout, navigation) http://www.rit.edu / RIT's Mobile site is VERY different from it's desktop site in terms of layout & navigation.  All content is still represented with a couple elements removed.  I didn't notice much typography change throughout the page, although the font size in the mobile menus is larger than it is in the desktop site.
 
 - This counts toward your participation grade in the course, so be sure to post by the time the other lab exercise is due.
 
