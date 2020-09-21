@@ -1,8 +1,8 @@
 # Tetris Grid Exercise
 
-This exercise, is best done individually (so that everyone gets their hands on the code), but please consult with your neighbors freely to figure out how to do the steps below.
+This exercise is a little more step-by-step than past exercises... We provide you with more code to copy and paste than usual, but you still need to know about CSS Grid and an assortment of topics from Chapters 18 and 19.
 
-We want you to complete this particular exercise and **submit it to the appropriate Assignment item in myCourses when you're done**.  You don't need to submit the previous Tetris-related exercises (the ones with floats and flexbox).
+We want you to complete this particular exercise and **submit it to the appropriate Assignment item in myCourses when you're done**. 
 
 Start with downloading the starter files located here:  [Tetris Grid Starter Files](tetris-grid-start-files.zip)
 
@@ -199,7 +199,7 @@ Okay, last part!
 
 Let's build a new Grid with a 6x6 layout.  
 
-*Not gonna lie... I didn't get this to be responsive.  It would take a different approach with the image files, I believe, and I'm out of time to add more to this exercise.  Sorry.*
+*Note, this is not responsive.  It would take a different approach with the image files and we just haven't had a chance to re-write the execise yet... If you feel so inclined, feel free to submit an alternative version of this assignment with a responsive playground grid.  Bring it to your instructors attention directly and we may award some bonus credit!*
 
 You might want to do this part with Firefox so that you can use its awesome grid inspector tools.  Just copy the Live Server URL to your page out of the Chrome location box and paste it into Firefox's... the same JavaScript will watch for changes to the file and reload when it is modified.  Then, when you use the inspector on an area that's a grid container, there will be a small grid button in the HTML that you can click on to display the grid inspector.
 
@@ -300,6 +300,8 @@ You might want to do this part with Firefox so that you can use its awesome grid
     }
     ```
     And boy, howdy, do we have an interesting playground, amirite?
+    
+    *Note, this won't work perfectly for all blocks.  This is another challenge for you to work out a way to make all blocks rotate.  Bring this to the instructors attention if you do it, but this one isn't worth extra credit)*
 
 1. Let's add one more interesting interface element:
     Back to your rollover navigation menu:
