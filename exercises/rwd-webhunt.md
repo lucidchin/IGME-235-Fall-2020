@@ -1,8 +1,10 @@
 # Exercise: Responsive Web Design Webhunt
 
-Your mission:  Locate a website that showcases Responsive Web Design.
+Your mission:  Locate a (unique*) website that showcases many aspects of Responsive Web Design.  Count the features and document it on the shared Slack channel.
 
-## Do the following, individually:
+*by unique, we mean that it hasn't been picked by anyone else so far.  (The earlier you do this exercise, the easier that will be).
+
+## Do the following:
 
 Search on the web for a website that features responsive mobile web design.  
 
@@ -14,18 +16,16 @@ Some ideas of the kinds of sites to look for:
 
 Get those browsers out of "maximized" mode and start adjusting browser widths!
 
-In particular look for these features:
-- A fluid layout
-- Multiple breakpoints
-- A layout where sections drop or shift to new locations when narrower.
-- Typography that becomes more legible, smaller, with tighter line heights, and/or with narrower margins on narrow screens.
-- A navigation style that changes at a narrow breakpoint.
+In particular look for these 5 features (discussed in Chapter 17 in your book):
+- A **fluid** layout
+- Multiple **breakpoints**
+- A **layout** where sections drop or shift to new locations when narrower.
+- **Typography** that becomes more legible, smaller, with tighter line heights, and/or with narrower margins on narrow screens.
+- A **navigation** style that changes at a narrow breakpoint.
 
-The more of these features the better and then **call the professor** on Desktop Discord (not the browser version) to share your findings with the rest of the class.  We will look at your findings until we have no more time.
+The more of these features you find, the better.  When you have your site, create a post in the "#exercise-rwd" channel in this format:   #/5 (list of bold words from above) URL to site.
 
-## After presentations are over:
-- Post your RWD example site to the newly available Discord channel "responsive-web-design" which was just made available to you.
-- This is worth half an attendance/participation point, so be sure to post, even if later on today.
+Example:   4/5 (fluid, breakpoints, layout, navigation) http://www.rit.edu
 
-### Navigation
-[Return to Session 5-2](../sessions/5-2.md)
+- This counts toward your participation grade in the course, so be sure to post by the time the other lab exercise is due.
+
