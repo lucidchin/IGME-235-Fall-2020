@@ -1,4 +1,4 @@
-# Tetris Grid Exercise
+# Exercise: Tetris Grid
 
 This exercise is a little more step-by-step than past exercises... We provide you with more code to copy and paste than usual, but you still need to know about CSS Grid and an assortment of topics from Chapters 18 and 19.
 
