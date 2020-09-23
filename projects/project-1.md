@@ -94,6 +94,7 @@ Later (at the end of the semester), you will add:
 - Real work examples.
 - Your Resume if you didn't add it previously.
 - Any additional design elements and/or interactivity that you wish to add.
+
 Also:
 - You should correct, adjust, and/or improve (if possible) any elements that were noted by your TA or Instructor in your evaluation and/or video feedback.
 - You should consider *removing* your documentation link if it doesn't present your portfolio design in the best light.
