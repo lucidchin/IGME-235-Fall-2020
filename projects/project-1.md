@@ -72,30 +72,30 @@ The site must be placed in the project1 directory inside of your 235 directory (
 - ZIP and upload your portfolio files (so far) as well.
 - Your final submission must also include the URL to your online documentation in the comments field of the dropbox.
 
-========= updated below this line ============
-
 ## Grading
 
-The Grading Rubric is not yet finalized.  Here is an estimate:
+The Full Grading Rubric will be attached to the "Final Submission" Assignment.  Here is an overview:
  
   Requirement | Possible Points (100%) |
 ----------- | --------------- |
 Required content present | 15% |
-File Structure | 5% |
+Responsive Design | 15% |
 Visual Design | 10% |
 Typography | 10% |
 Navigation System | 10% |
-Responsive Design | 15% |
 Semantic, valid HTML | 10% |
 Well-structured, valid CSS | 10% |
-Properly optimized media | 5% |
 Documentation | 10% |
+File Structure | 5% |
+Properly optimized media | 5% |
 
 ## Future version notes:
-Later, you will add:
+Later (at the end of the semester), you will add:
 - Real work examples.
 - Your Resume if you didn't add it previously.
 - Any additional design elements and/or interactivity that you wish to add.
+Also:
+- You should correct, adjust, and/or improve (if possible) any elements that were noted by your TA or Instructor in your evaluation and/or video feedback.
 - You should consider *removing* your documentation link if it doesn't present your portfolio design in the best light.
 - You should be prepared to move your portfolio to a better URL.
 
